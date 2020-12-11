@@ -1,8 +1,8 @@
 # Hi there 👋
 
-👩‍💻 I am seeking a full time iOS Developer position.
+🦄 I share my developer journey on [Instagram](https://instagram.com/mikaelacaron) and [Twitter](https://twitter.com/mikaela__caron)
 
-🦄 I share my developer journey on [Instagram](https://instagram.com/mikaelacaron)
+I ocassionally (rarely) blog at [mikaelacaron.com](https://mikaelacaron.com)
 
 <!--
 **mikaelacaron/mikaelacaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
