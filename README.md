@@ -2,7 +2,7 @@
 
 🦄 I share my developer journey on [Instagram](https://instagram.com/mikaelacaron) and [Twitter](https://twitter.com/mikaela__caron)
 
-I ocassionally (rarely) blog at [mikaelacaron.com](https://mikaelacaron.com)
+I ocassionally blog at [mikaelacaron.com](https://mikaelacaron.com)
 
 <!--
 **mikaelacaron/mikaelacaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
