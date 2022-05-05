@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🦄 I share my developer journey on [Instagram](https://instagram.com/mikaelacaron), [Twitter](https://twitter.com/mikaela__caron) and my new [YouTubeChannel](https://www.youtube.com/c/mikaelacaron)!
+🦄 I share my developer journey on [Instagram](https://instagram.com/mikaelacaron), [Twitter](https://twitter.com/mikaela__caron) and my new [YouTube Channel](https://www.youtube.com/c/mikaelacaron)!
 
 I ocassionally blog at [mikaelacaron.com](https://mikaelacaron.com)
 
