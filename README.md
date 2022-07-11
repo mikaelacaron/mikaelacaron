@@ -4,6 +4,8 @@
 
 I ocassionally blog at [mikaelacaron.com](https://mikaelacaron.com)
 
+If you'd like to support the content I create, you can [buy me a coffee ☕️](https://www.buymeacoffee.com/mikaelacaron)
+
 <!--
 **mikaelacaron/mikaelacaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
