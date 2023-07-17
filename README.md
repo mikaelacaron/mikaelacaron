@@ -1,11 +1,10 @@
-# Hi there 👋
+ # Hi there 👋
 
-🦄 My name is Mikaela Caron. I'm an iOS Engineer at [Lickability](https://lickability.com/). I share my developer journey on [Instagram](https://instagram.com/mikaelacaron), [Mastodon](https://swiftdevs.space/@mikaelacaron), and [Twitter](https://twitter.com/mikaela__caron) and my [YouTube Channel](https://www.youtube.com/c/mikaelacaron)!
+🦄 My name is Mikaela Caron. I'm an iOS Engineer at [Lickability](https://lickability.com/). I share my developer journey on [Instagram](https://instagram.com/mikaelacaron), [Mastodon](https://swiftdevs.space/@mikaelacaron), [Threads](https://threads.net/@mikaelacaron), [Twitter](https://twitter.com/mikaela__caron) and my [YouTube Channel](https://www.youtube.com/c/@MikaelaCaron)!
 
-Join me on YouTube at 9am ET (14:00 UTC) Fridays building an expense tracker with a custom Vapor backend! The entire series is [livestreamed](https://youtube.com/playlist?list=PLomLuS7LD16dUsMq75rdGVKIOGalcElte)!
-> Currently on hiatus, and not very frequent right now, but can still [subscribe](https://www.youtube.com/@MikaelaCaron) to be updated when I do post new videos!
+I'm making a new app for iOS 17, sign up for the beta to be the first to access it! https://getfruitful.app
 
-<br/><br/>
+<br/>
 
 I occasionally blog at [mikaelacaron.com](https://mikaelacaron.com)
 
