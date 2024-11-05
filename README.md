@@ -10,7 +10,7 @@ I occasionally blog at [mikaelacaron.com](https://mikaelacaron.com)
 If you'd like to support the content I create, you can [buy me a coffee ☕️](https://www.buymeacoffee.com/mikaelacaron)
 <br/>
 
-## Hacktoberfest 2023 🎃
+## Hacktoberfest 2024 🎃
 
 I'm working on my app [Basic Car Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance), anyone is welcome to contribute! Especially beginners!
 
