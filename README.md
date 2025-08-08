@@ -4,6 +4,7 @@
 
 
 🍎 Connect with others at conferences - https://getfruitful.app
+
 🫧 Native Discourse Client for iOS, iPadOS, and later macOS - https://gobubbles.app
 
 I occasionally blog at [mikaelacaron.com](https://mikaelacaron.com)
